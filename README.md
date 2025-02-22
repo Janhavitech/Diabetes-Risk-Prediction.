@@ -7,7 +7,7 @@ Diabetes is a growing health concern worldwide, and early detection is crucial t
 ## 🚀 Features
 ✅ Predicts early-stage diabetes risk using medical data  
 ✅ **98% accuracy** achieved using a **Random Forest Classifier**  
-✅ Interactive **Gradio UI** for user-friendly predictions  
+✅ Interactive **Streamlit UI** for user-friendly predictions  
 ✅ Fully **automated pipeline** from data preprocessing to prediction  
 ✅ Can assist **doctors and healthcare professionals** in early diagnosis  
 
@@ -18,7 +18,7 @@ Diabetes cases are increasing, and many people remain undiagnosed until the dise
 - Develop a **high-accuracy machine learning model** for diabetes prediction.
 - Identify the **most important medical indicators** contributing to diabetes risk.
 - Compare different **machine learning algorithms** to find the best-performing model.
-- Create an **interactive UI** using **Gradio** for easy user access.
+- Create an **interactive UI** using **Streamlit** for easy user access.
 
 ## 🏗️ Project Structure
 ```
@@ -34,8 +34,8 @@ Diabetes_Prediction/
 🔹 **pandas, numpy** - Data processing  
 🔹 **matplotlib, seaborn** - Data visualization  
 🔹 **scikit-learn** - Machine learning model  
-🔹 **Gradio** - UI for real-time predictions  
-🔹 **Google Colab** - Model training & execution  
+🔹 **Streamlit** - UI for real-time predictions  
+🔹 **VSCode** - Model training & execution  
 
 ## 📊 Algorithms Used
 ✔ **Random Forest Classifier** (Main model with 98% accuracy)  
